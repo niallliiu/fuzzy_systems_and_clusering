@@ -1,0 +1,20 @@
+#Roads selected
+
+
+Oslo(Helsfyr) - Råholt
+
+Datapoints:
+- Helsfyr 
+- E6 Alnabru Nordgående Helsfyr Furuset | E6 Alnabru Sydgående Furuset Helsfyr
+- E6 Lindeberg nordgående | E6 Lindeberg sørgående
+- E6 Furuset nordgående hovedfelt | E6 Furuset sydgående hovedfelt
+- E6 v/Karihaugen
+- Hvam sør
+- Hvam nord
+- Skedsmovollen
+- Leira bru
+- Kløfta sør
+- Jessheim E6
+- Jessheim nord flyplasskrysset
+- Mogreinakrysset
+- Dalkrysset
